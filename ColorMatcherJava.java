@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package colormatcherjava;
 
 import java.awt.BorderLayout;
@@ -32,7 +27,7 @@ import javax.swing.WindowConstants;
 
 /**
  *
- * @author John and Cass
+ * @author John
  */
 public class ColorMatcherJava {
 
