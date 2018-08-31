@@ -1,3 +1,8 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package colormatcherjava;
 
 import java.awt.BorderLayout;
@@ -27,7 +32,7 @@ import javax.swing.WindowConstants;
 
 /**
  *
- * @author John
+ * @author John and Cass
  */
 public class ColorMatcherJava {
 
@@ -85,13 +90,6 @@ public class ColorMatcherJava {
         {
             public void actionPerformed(ActionEvent e)
             {
-                /*Color color = current.getBackground();
-                if(color == Color.GREEN){
-                    current.setBackground(Color.RED);
-                }
-                else{
-                    current.setBackground(Color.GREEN);
-                }*/
                 ColorCompare();
             }
         });
